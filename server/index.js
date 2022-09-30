@@ -7,10 +7,15 @@ app.use(express.json())
 app.use(cors())
 
 const {
-    getPlants
+    getPlants,
+    addPlant,
+    deletePlant
 } = require('./controller')
 
 app.get('/getPlants', getPlants)
+app.post('/addPlant', addPlant)
+app.delete('/deletePlant/:id', deletePlant)
+
 
 app.listen(2323, () => console.log('Please turn to page 2323'))
 

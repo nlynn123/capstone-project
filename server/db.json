@@ -2,19 +2,19 @@
     {
         "id": 1,
         "name": "Monstera",
-        "picture": "something",
-        "description": "Huge. Just enormous."
+        "picture": "../client/pictures/monstera.jpg",
+        "description": "Huge. Just enormous. Will just keep getting bigger even if there's no room."
     },
     {
         "id": 2,
-        "name": "Chinese Money Plant",
-        "picture": "",
-        "description":"Just a little round guy, ya know."
+        "name": "Peace Lily",
+        "picture": "../client/pictures/peacelily.jpg",
+        "description":"The most temperamental drama queen. Don't forget to water."
     },
     {
         "id": 3,
-        "name": "Goldfish plant",
-        "picture": "",
-        "description": "It's got flowers like goldfishes!"
+        "name": "Cactus",
+        "picture": "../client/pictures/cactus.jpg",
+        "description": "Pointy boy. Handle with caution."
     }
 ]
