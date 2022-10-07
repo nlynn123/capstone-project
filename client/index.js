@@ -28,9 +28,9 @@ const createPlantCard = (plant) => {
     plantCard.classList.add('plant-card')
 
     plantCard.innerHTML = `
-    <img src=${plant.picture} alt='plant image'/>
+    <img src=${plant.picture} class ='plant-image' alt='plant image'/>
     <p>${plant.name}</p>
-    <p>${plant.description}</p>
+    <p class = 'plant-description'>${plant.description}</p>
     <button onclick="deletePlant(${plant.id})">Delete</button>
     `
     showPlants.appendChild(plantCard)

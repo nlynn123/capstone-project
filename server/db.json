@@ -3,18 +3,30 @@
         "id": 1,
         "name": "Monstera",
         "picture": "../client/pictures/monstera.jpg",
-        "description": "Huge. Just enormous. Will just keep getting bigger even if there's no room."
+        "description": "Monstera plants are widely considered to be very beginner-friendly plants. Will grow to be quite large. Water every 1-2 weeks."
     },
     {
         "id": 2,
         "name": "Peace Lily",
         "picture": "../client/pictures/peacelily.jpg",
-        "description":"The most temperamental drama queen. Don't forget to water."
+        "description":"The most temperamental drama queen. Will wilt if not watered consistently (at least once a week)."
     },
     {
         "id": 3,
         "name": "Cactus",
         "picture": "../client/pictures/cactus.jpg",
-        "description": "Pointy boy. Handle with caution."
+        "description": "Cacti can thrive in indoor environments with lots of sunlight. Water every 1-2 weeks in growing seasons, but in off-seasons, space it out to once every 3-4 weeks."
+    },
+    {
+        "id": 4, 
+        "name": "Fiddle Leaf Fig",
+        "picture": "../client/pictures/fiddleleaf.jpg",
+        "description": "Grows very tall vertically, so keep that in mind when finding a place for this plant. Water when soil is completely dry."
+    },
+    {
+        "id": 5,
+        "name": "Calathea Orbifolia",
+        "picture": "../client/pictures/calathea.jpg",
+        "description": "Needs well-draining but slightly acidic soil and bright but indirect light. Water once a week."
     }
 ]
